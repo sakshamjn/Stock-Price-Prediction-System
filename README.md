@@ -1,4 +1,4 @@
-# Stock-Price-Prediction-Model
+# Stock-Price-Prediction-Model (ML)
 In Machine learning algorithms like ‘Linear regression’ and ‘Neural Network’ are used to predict the closing price of the stock by analyzing the opening price and the relative trend of that particular stock.
 
 # Linear Regression
