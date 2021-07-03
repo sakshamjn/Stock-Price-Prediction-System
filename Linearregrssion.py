@@ -1,9 +1,9 @@
 # Load libraries
-import pandas
+import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.linear_model import LinearRegression
 
-dataset = pandas.read_csv('DS1.csv')
+dataset = pd.read_csv('DS1.csv')
 
 x=dataset.iloc[:,1].values
 y=dataset.iloc[:,4].values
